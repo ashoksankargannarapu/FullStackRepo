@@ -5,5 +5,6 @@ public class Employee {
 	private String empName;
 	private String job;
 	private Double salary;
+	private String city;
 
 }
